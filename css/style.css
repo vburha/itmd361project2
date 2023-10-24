@@ -80,8 +80,8 @@ main {
 .songbox {
   background-color: #DCCCDF;
   border-radius: 5%;
-  padding: 2px;
-  margin: 1px 0;
+  padding: 5px;
+  margin: 5px 0;
 }
 
 #column1, #column2 {

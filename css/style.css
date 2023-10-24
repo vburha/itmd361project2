@@ -63,6 +63,7 @@ header h1 {
 
 header p {
   display: inline-block;
+  clear: left;
   float: center;
   padding: 0;
   margin: 0;

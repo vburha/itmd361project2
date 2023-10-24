@@ -19,5 +19,5 @@ nav ul li {
 }
 
 nav {
-  clear: left;
+  position: fixed;
 }

@@ -43,6 +43,8 @@ nav ul li a {
 }
 
 header {
+  display: block;
+  float: left;
   clear: left;
 }
 
@@ -55,4 +57,13 @@ header {
 header p {
   display: block;
   float: left;
+}
+
+#sunmi {
+  display: block;
+  float: right;
+}
+
+main {
+  clear: left;
 }

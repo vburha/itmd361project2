@@ -79,4 +79,19 @@ main {
 
 .songbox {
   background-color: #DCCCDF;
+  border-radius: 10%;
+  padding: 2px;
+}
+
+#column1, #column2 {
+  float: left;
+  width: 49%;
+}
+
+#column1 {
+  margin: 0 0 0 1%;
+}
+
+#column2 {
+  margin: 0 1% 0 0;
 }

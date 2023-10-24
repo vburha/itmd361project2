@@ -16,6 +16,7 @@ h3 {
 
 nav ul li {
   float: left;
+  margin: 0 5px;
 }
 
 nav h2 {
@@ -26,8 +27,8 @@ nav h2 {
 }
 
 nav ul {
+  position: relative;
   list-style-type: none;
-  margin: 0 5px;
   padding: 0;
   top: 25%;
   bottom: 25%;

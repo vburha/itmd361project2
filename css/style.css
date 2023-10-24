@@ -43,10 +43,9 @@ nav ul li a {
 }
 
 header {
-  display: block;
-  float: center;
   clear: left;
   width: 100%;
+  text-align: center;
 }
 
 #hdrmovies, #hdrsongs, #hdrhome {
@@ -56,21 +55,21 @@ header {
 }
 
 header h1 {
-  display: block;
+  display: inline-block;
   float: center;
   padding: 0;
   margin: 0;
 }
 
 header p {
-  display: block;
+  display: inline-block;
   float: center;
   padding: 0;
   margin: 0;
 }
 
 #sunmi {
-  display: block;
+  display: inline-block;
   float: right;
 }
 

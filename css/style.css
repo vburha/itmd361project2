@@ -44,8 +44,9 @@ nav ul li a {
 
 header {
   display: block;
-  float: left;
+  float: center;
   clear: left;
+  width: 100%;
 }
 
 #hdrmovies, #hdrsongs, #hdrhome {
@@ -67,7 +68,6 @@ header p {
 }
 
 #sunmi {
-  position: absolute;
   display: block;
   float: right;
 }

@@ -61,10 +61,15 @@ header h1 {
 }
 
 header p {
+  color: #701E6D;
   display: block;
   clear: left;
   padding: 0;
   margin: 0;
+}
+
+#sunmi {
+  border-radius: 30%;
 }
 
 main {

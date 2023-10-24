@@ -15,7 +15,7 @@ h3 {
 }
 
 nav ul li {
-  list-style-type: none;
+  float: left;
 }
 
 nav h2 {
@@ -24,15 +24,12 @@ nav h2 {
 }
 
 nav ul {
-  float: left;
-  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-nav {
-  position: fixed;
-  top: 0px;
-}
-
-header {
-  clear: left;
+nav ul li a {
+  display: block;
+  text-decoration: none;
 }

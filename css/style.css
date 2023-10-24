@@ -27,8 +27,10 @@ nav h2 {
 
 nav ul {
   list-style-type: none;
-  margin: 0 2px;
+  margin: 0 5px;
   padding: 0;
+  top: 25%;
+  bottom: 25%;
 }
 
 nav ul li a {

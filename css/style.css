@@ -21,13 +21,13 @@ nav ul li {
 nav h2 {
   float: left;
   display: block;
-  margin: 0;
+  margin: 0 5px 0 0;
   padding: 0;
 }
 
 nav ul {
   list-style-type: none;
-  margin: 0;
+  margin: 0 2px;
   padding: 0;
 }
 

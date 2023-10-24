@@ -76,3 +76,7 @@ header p {
 main {
   clear: left;
 }
+
+.songbox {
+  background-color: #DCCCDF;
+}

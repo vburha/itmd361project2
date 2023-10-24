@@ -67,6 +67,7 @@ header p {
 }
 
 #sunmi {
+  position: absolute;
   display: block;
   float: right;
 }

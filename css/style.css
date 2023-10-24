@@ -17,3 +17,7 @@ h3 {
 nav ul li {
   list-style-type: none;
 }
+
+nav {
+  clear: left;
+}

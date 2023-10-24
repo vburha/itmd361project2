@@ -54,6 +54,11 @@ header {
   -webkit-text-fill-color: transparent;
 }
 
+header h1 {
+  display: block;
+  float: left;
+}
+
 header p {
   display: block;
   float: left;

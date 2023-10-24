@@ -70,8 +70,10 @@ header p {
 }
 
 #sunmi {
+  display: block;
   border-radius: 30%;
   text-shadow: 2px 2px 4px #000000;
+  text-align: center;
 }
 
 main {
@@ -82,6 +84,11 @@ main {
   background-color: #DCCCDF;
   border-radius: 3%;
   padding: 5px;
+  margin: 5px 0;
+}
+
+#sunmibox {
+  padding: auto;
   margin: 5px 0;
 }
 

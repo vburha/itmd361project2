@@ -20,7 +20,7 @@ nav ul li {
 
 nav h2 {
   float: left;
-  display: inline;
+  display: block;
 }
 
 nav ul {

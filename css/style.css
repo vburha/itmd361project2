@@ -47,7 +47,7 @@ header {
 }
 
 #hdrmovies, #hdrsongs, #hdrhome {
-  background: -webkit-linear-gradient(#eee, #333);
+  background: -webkit-linear-gradient(#701E6D, #DCCCDF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

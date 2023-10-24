@@ -51,3 +51,8 @@ header {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+header p {
+  display: block;
+  float: left;
+}

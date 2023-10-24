@@ -45,3 +45,9 @@ nav ul li a {
 header {
   clear: left;
 }
+
+#hdrmovies, #hdrsongs, #hdrhome {
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

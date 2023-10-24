@@ -16,7 +16,7 @@ h3 {
 
 nav ul li {
   float: left;
-  margin: 0 5px;
+  margin: 0;
 }
 
 nav h2 {
@@ -24,6 +24,8 @@ nav h2 {
   display: block;
   margin: 0 5px 0 0;
   padding: 0;
+  color: #701E6D;
+  text-shadow: 2px 1px #DCCCDF;
 }
 
 nav ul {
@@ -37,6 +39,7 @@ nav ul li a {
   text-decoration: none;
   background-color: #DCCCDF;
   color: #701E6D;
+  padding: 5px;
 }
 
 header {

@@ -126,3 +126,8 @@ main {
   width: 58%;
   margin: 0 1%;
 }
+
+#resumehdr {
+  background-color: #DCCCDF;
+  width: 100%;
+}

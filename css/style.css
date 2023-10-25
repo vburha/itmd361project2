@@ -97,6 +97,10 @@ main {
   margin: 5px 0;
 }
 
+.songbox ul {
+  list-style-type: circle;
+}
+
 #sunmibox {
   margin: 5px 0;
 }

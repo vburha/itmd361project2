@@ -30,7 +30,7 @@ nav h2 {
 }
 
 nav ul {
-  position: relative;
+  float: left;
   list-style-type: none;
   padding: 0;
 }

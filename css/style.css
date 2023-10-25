@@ -132,3 +132,7 @@ main {
   background-color: #DCCCDF;
   width: 100%;
 }
+
+iframe {
+  text-align: center;
+}

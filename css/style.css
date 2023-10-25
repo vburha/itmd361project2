@@ -128,7 +128,7 @@ main {
 }
 
 #resumehdr {
-  float: center;
+  text-align: center;
   background-color: #DCCCDF;
   width: 100%;
 }

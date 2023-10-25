@@ -143,5 +143,5 @@ main {
 }
 
 iframe {
-  text-align: center;
+  float: center;
 }

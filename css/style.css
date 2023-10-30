@@ -26,10 +26,10 @@ nav div ul li {
 
 nav div h2 {
   display: inline-block;
-  margin: 0 5px 0 0;
+  margin: 0 0.313rem 0 0;
   padding: 0;
   color: #701E6D;
-  text-shadow: 2px 1px #DCCCDF;
+  text-shadow: 0.125rem 0.063rem #DCCCDF;
 }
 
 nav div ul {
@@ -44,14 +44,14 @@ nav div ul li a {
   text-decoration: none;
   background-color: #DCCCDF;
   color: #701E6D;
-  padding: 5px;
+  padding: 0.313rem;
 }
 
 nav {
   border-style: outset;
   border-color: #701E6D;
   width: 100%;
-  height: 34px;
+  height: 2.125rem;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -86,7 +86,7 @@ header p {
 #sunmi {
   display: block;
   border-radius: 30%;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 0.125rem 0.125rem 0.25rem #000000;
   text-align: center;
 }
 
@@ -97,8 +97,8 @@ main {
 .songbox {
   background-color: #DCCCDF;
   border-radius: 3%;
-  padding: 5px;
-  margin: 5px 0;
+  padding: 0.313rem;
+  margin: 0.313rem 0;
 }
 
 .songbox ul {
@@ -106,7 +106,7 @@ main {
 }
 
 #sunmibox {
-  margin: 5px 0;
+  margin: 0.313rem 0;
 }
 
 #column1, #column2 {

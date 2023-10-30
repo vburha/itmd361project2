@@ -15,12 +15,16 @@ h3 {
   font-weight: bold;
 }
 
-nav ul li {
+nav div {
+  display: block;
+}
+
+nav div ul li {
   float: left;
   margin: 0;
 }
 
-nav h2 {
+nav div h2 {
   float: left;
   display: block;
   margin: 0 5px 0 0;
@@ -29,14 +33,14 @@ nav h2 {
   text-shadow: 2px 1px #DCCCDF;
 }
 
-nav ul {
+nav div ul {
   float: left;
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
-nav ul li a {
+nav div ul li a {
   display: block;
   text-decoration: none;
   background-color: #DCCCDF;
@@ -51,8 +55,6 @@ nav {
   height: 34px;
   margin: 0;
   padding: 0;
-  display: block;
-  float: center;
   text-align: center;
 }
 

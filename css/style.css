@@ -51,6 +51,9 @@ nav {
   height: 34px;
   margin: 0;
   padding: 0;
+  display: block;
+  float: center;
+  text-align: center;
 }
 
 header {
@@ -144,4 +147,8 @@ main {
   text-align: center;
   background-color: #DCCCDF;
   width: 100%;
+}
+
+.resumelist {
+  list-style-type: none;
 }

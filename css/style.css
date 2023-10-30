@@ -25,7 +25,6 @@ nav div ul li {
 }
 
 nav div h2 {
-  float: left;
   display: block;
   margin: 0 5px 0 0;
   padding: 0;
@@ -34,7 +33,6 @@ nav div h2 {
 }
 
 nav div ul {
-  float: left;
   list-style-type: none;
   padding: 0;
   margin: 0;
